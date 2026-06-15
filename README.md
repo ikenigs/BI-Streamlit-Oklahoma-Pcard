@@ -1,6 +1,5 @@
 # Oklahoma State PCard Spending Analysis
 
-**Course:** ALY 6110 – Data Management & Big Data | Northeastern University  
 **Author:** Ivan Kenigsberg  
 **Period covered:** July 2023 – June 2024
 
@@ -8,8 +7,7 @@
 
 ## Live Dashboard
 
-> **[Launch Dashboard on Streamlit](_PLACEHOLDER_)**  
-> *(link will be updated after deployment)*
+> **[Launch Dashboard on Streamlit](https://bi-app-oklahoma-pcard.streamlit.app/)**
 
 ---
 
