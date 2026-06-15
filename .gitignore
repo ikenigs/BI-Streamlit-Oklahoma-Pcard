@@ -1,0 +1,20 @@
+# Raw data files (too large for GitHub)
+Dataset/
+
+# Build script (not needed for deployment)
+build_report.py
+
+# Word report
+*.docx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
