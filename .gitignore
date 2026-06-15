@@ -1,6 +1,9 @@
 # Raw data files (too large for GitHub)
 Dataset/
 
+# Assignment instructions
+Instructions.txt
+
 # Build script (not needed for deployment)
 build_report.py
 
